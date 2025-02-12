@@ -5,7 +5,7 @@ import List from './components/List';
 function App() {
   return (
     <div className="App">
-      <Pessoa foto="https://www.w3schools.com/w3images/avatar2.png" nome="João" idade="25" cargo="Desenvolvedor" />
+      <Pessoa foto="https://www.w3schools.com/w3images/avatar2.png" nome="Fábio da Cunha" idade="22" cargo="Estudante de cibersegurança" />
       <List />
     </div>
   );
